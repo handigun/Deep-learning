@@ -1,4 +1,4 @@
-from hw_utils import * 
+from nn_utils import * 
 import time
 if __name__ == "__main__":
 	din = 50
